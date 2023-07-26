@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/jsbg2"
+    android:fitsSystemWindows="true">
+
+
+
+    <Button
+        android:id="@+id/joyconChoice"
+        android:layout_width="109dp"
+        android:layout_height="63dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="150dp"
+        android:text="@string/joyconChoice" />
+
+    <Button
+        android:id="@+id/phoneChoice"
+        android:layout_width="109dp"
+        android:layout_height="63dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="150dp"
+        android:text="@string/phoneChoice" />
+
+
+</LinearLayout>
